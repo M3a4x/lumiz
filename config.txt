@@ -1,6 +1,6 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
-owner=331081268731052042 
-prefix=!
+token=NDgyMzk0OTc4NTEzODQ2Mjg0.DnwtgQ.4o9VtLqcghKr1KjDabMQtp-NnGk
+owner=477959908004986891 
+prefix=L
 game=Baktash-bot
 stayinchannel=true
 songinstatus=true
